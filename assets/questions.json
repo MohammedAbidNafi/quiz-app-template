@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What type of pastry is used to make a croissant?",
+    "options": [
+      "Puff pastry",
+      "Shortcrust pastry",
+      "Choux pastry",
+      "Filo pastry"
+    ],
+    "answer": "Puff pastry"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "options": ["Monaco", "Liechtenstein", "Vatican City", "San Marino"],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "What is the only mammal capable of sustained flight?",
+    "options": ["Flying squirrel", "Bat", "Gliding possum", "Sugar glider"],
+    "answer": "Bat"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "Which planet is known for its prominent rings?",
+    "options": ["Jupiter", "Saturn", "Neptune", "Mars"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What does the acronym “Wi-Fi” stand for?",
+    "options": [
+      "Wireless Fidelity",
+      "Wide Frequency",
+      "Wired Functionality",
+      "Wave Format"
+    ],
+    "answer": "Wireless Fidelity"
+  },
+  {
+    "question": "In which year did the Wright brothers achieve the first powered flight?",
+    "options": ["1899", "1903", "1912", "1920"],
+    "answer": "1903"
+  },
+  {
+    "question": "How many points is a touchdown worth in American football?",
+    "options": ["5", "6", "7", "3"],
+    "answer": "6"
+  },
+  {
+    "question": "What is the most widely spoken language in the world by native speakers?",
+    "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "Who painted the famous artwork The Starry Night?",
+    "options": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Leonardo da Vinci"
+    ],
+    "answer": "Vincent van Gogh"
+  }
+]
